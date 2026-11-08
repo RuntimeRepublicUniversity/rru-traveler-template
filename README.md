@@ -1,5 +1,7 @@
 # RRU Student Traveler
 
+**Welcome, Hitchhiker. Don't panic:** your Guide knows the way, and this traveler keeps your record.
+
 This repo is your **traveler** for Runtime Republic University (RRU).
 
 On a shop floor, a traveler is the work order that moves with a part. It lists every
